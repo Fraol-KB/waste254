@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/customer"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_previous"
+            android:icon="@drawable/nav_previouspost"
+            android:title="Previous Post" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/nav_contact"
+            android:title="Contact" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/nav_help"
+                android:title="Help" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/nav_info"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/nav_settings"
+                android:title="Settings" />
+        </menu>
+    </item>
+
+</menu>

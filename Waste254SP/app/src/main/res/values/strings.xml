@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Waste254SP</string>
+    <string name="un_moto">It takes a little effort on your part to being clean and green</string>
+    <string name="un_moto2">Waste it once... Pay for it twice!</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="sing_up">Sign up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="prompt_email">Email</string>
+    <string name="action_sign_up">Create Account</string>
+    <string name="question_prompt">Security Question</string>
+    <string-array name="question_arrays">
+        <item>What is your home town?</item>
+        <item>What is your favorite meal?</item>
+
+        <item>What is your nick name?</item>
+        <item>Where would you like to live?</item>
+    </string-array>
+
+
+    <string name="slide_1_title">Clean Environment!</string>
+    <string name="slide_1_desc">Keeping your environment sanitation!</string>
+
+    <string name="slide_2_title">Clean World</string>
+    <string name="slide_2_desc">Keeping your world sanitation!</string>
+
+    <string name="slide_3_title">Recycling Energy</string>
+    <string name="slide_3_desc">Creating a power plant for powering world!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <!--<string name="cleanbin">http://192.168.195.1/waste/cleanbin.php</string>-->
+    <!--<string name="bincleaned">http://192.168.195.1/waste/bincleaned.php</string>-->
+    <!--<string name="loginsp">http://192.168.195.1/waste/loginsp.php</string>-->
+
+    <string name="cleanbin">http://waste254.000webhostapp.com/cleanbin.php</string>
+    <string name="bincleaned">http://waste254.000webhostapp.com/bincleaned.php</string>
+    <string name="loginsp">http://waste254.000webhostapp.com/loginsp.php</string>
+</resources>
